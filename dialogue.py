@@ -187,7 +187,7 @@ SCHEDULED = [
                     "icon_emoji": ":celeste-mom-normal00:",
                     "username": "Mum",
                     "messages": [
-                        "Amber, be sure to ask your friends a question to _make some new pals_!",
+                        "Ruby, be sure to ask your friends a question to _make some new pals_!",
                     ],
                 }
             ],
@@ -196,7 +196,7 @@ SCHEDULED = [
                     "icon_emoji": ":celeste-mom-normal01:",
                     "username": "Mum",
                     "messages": [
-                        "Amber, do you know what time it is? It's *question-asking time*!",
+                        "Ruby, do you know what time it is? It's *question-asking time*!",
                     ],
                 }
             ],
@@ -210,7 +210,7 @@ SCHEDULED = [
                     "icon_emoji": ":distracteline:",
                     "username": "Madeline",
                     "messages": [
-                        "Hey Amber.... what have you been up to today?"
+                        "Hey Ruby.... what have you been up to today?"
                     ],
                 }
             ],
@@ -219,7 +219,7 @@ SCHEDULED = [
                     "icon_emoji": ":unimpressedbirb:",
                     "username": "Bird",
                     "messages": [
-                        "_*SQUAWK SQUAWK* it's time for your daily breakdown, Amber_",
+                        "_*SQUAWK SQUAWK* it's time for your daily breakdown, Ruby_",
                     ],
                 }
             ],
@@ -240,7 +240,7 @@ SCHEDULED = [
                         "icon_emoji": ":celeste-madeline-peaceful00:",
                         "username": "Madeline",
                         "messages": [
-                            "Merry Christmas, Amber!"
+                            "Merry Christmas, Ruby!"
                         ],
                  }
              ],
@@ -249,14 +249,14 @@ SCHEDULED = [
                      "icon_emoji": ":neocat_santa:",
                         "username": "Neocat",
                         "messages": [
-                            "Merry Christmas, Amber! :3"
+                            "Merry Christmas, Ruby! :3"
                         ],
                  },
                     {
                         "icon_emoji": ":neodog_santa:",
                             "username": "Neodog",
                             "messages": [
-                                "_Wrrf, wrrf!_ Merry Christmas, Amber! :3"
+                                "_Wrrf, wrrf!_ Merry Christmas, Ruby! :3"
                             ],
                     }
              ],
@@ -264,14 +264,14 @@ SCHEDULED = [
                  "icon_emoji": ":neodog_santa:",
                     "username": "Neodog",
                     "messages": [
-                        "_Wrrf, wrrf!_ Merry Christmas, Amber! :3"
+                        "_Wrrf, wrrf!_ Merry Christmas, Ruby! :3"
                     ],
              },
                 {
                     "icon_emoji": ":neocat_santa:",
                         "username": "Neocat",
                         "messages": [
-                            "Merry Christmas, Amber! >:3"
+                            "Merry Christmas, Ruby! >:3"
                         ],
                 }
              ]
